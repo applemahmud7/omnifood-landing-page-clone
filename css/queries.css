@@ -1,0 +1,198 @@
+/* @media (max-width: 105em) {
+  html {
+    font-size: 75%;
+  }
+}
+@media (max-width: 98em) {
+  html {
+    font-size: 70%;
+  }
+}
+@media (max-width: 91em) {
+  html {
+    font-size: 65%;
+  }
+}
+@media (max-width: 86em) {
+  html {
+    font-size: 58.75%;
+  }
+}
+@media (max-width: 75em) {
+  html {
+    font-size: 50%;
+  }
+  .hero-heading {
+    font-size: 4.8rem;
+  }
+  .hero-description {
+    font-size: 1.6rem;
+  }
+  .hero {
+    gap: 5.2rem;
+  }
+  .meals-delivered-description {
+    font-size: 1.6rem;
+  }
+  .four-testimonials {
+    column-gap: 6rem;
+  }
+  .testimonial-text {
+    font-size: 1.6rem;
+  }
+  .secondary-heading {
+    font-size: 3.6rem;
+  }
+  .big-number {
+    font-size: 7.2rem;
+  }
+  .how-subheader {
+    font-size: 2.6rem;
+  }
+  .how-description {
+    font-size: 1.6rem;
+  }
+  .cta-title {
+    font-size: 4.2rem;
+  }
+}
+@media (max-width: 62em) {
+  .hero-heading {
+    font-size: 3.2rem;
+  }
+  .hero-description {
+    font-size: 1.4rem;
+  }
+  .hero {
+    gap: 4.8rem;
+  }
+  .meals-delivered-description {
+    font-size: 1.2rem;
+    font-weight: 500;
+  }
+  .four-testimonials {
+    column-gap: 4rem;
+  }
+  .testimonial-text {
+    font-size: 1.4rem;
+  }
+  .subheading {
+    font-size: 1.4rem;
+  }
+  .secondary-heading {
+    font-size: 3.2rem;
+  }
+}*/
+@media (max-width: 105em) {
+  html {
+    font-size: 75%;
+  }
+}
+@media (max-width: 98em) {
+  html {
+    font-size: 70%;
+  }
+}
+@media (max-width: 90em) {
+  html {
+    font-size: 55%;
+  }
+  .hero-heading {
+    font-size: 4.8rem;
+  }
+  .hero-description {
+    font-size: 1.6rem;
+  }
+  .hero {
+    gap: 5.2rem;
+  }
+  .meals-delivered-description {
+    font-size: 1.6rem;
+  }
+  .four-testimonials {
+    column-gap: 6rem;
+  }
+  .testimonial-text {
+    font-size: 1.6rem;
+  }
+  .secondary-heading {
+    font-size: 3.6rem;
+  }
+  .big-number {
+    font-size: 7.2rem;
+  }
+  .how-subheader {
+    font-size: 2.6rem;
+  }
+  .how-description {
+    font-size: 1.6rem;
+  }
+  .cta-title {
+    font-size: 4.2rem;
+  }
+}
+@media (max-width: 63em) {
+  html {
+    font-size: 50%;
+  }
+  .hero-heading {
+    font-size: 3.2rem;
+  }
+  .hero-description {
+    font-size: 1.4rem;
+  }
+  .hero {
+    gap: 4.8rem;
+  }
+  .meals-delivered-description {
+    font-size: 1rem;
+  }
+  .brands-imgs {
+    flex-wrap: wrap;
+    gap: 2rem;
+  }
+  .brands-img {
+    height: 2.4rem;
+  }
+  .four-testimonials {
+    column-gap: 6rem;
+  }
+  .testimonial-text {
+    font-size: 1.6rem;
+  }
+  .secondary-heading {
+    font-size: 3.6rem;
+  }
+  .big-number {
+    font-size: 6.4rem;
+  }
+  .how-subheader {
+    font-size: 2.6rem;
+  }
+  .how-description {
+    font-size: 1.6rem;
+  }
+  .cta-title {
+    font-size: 4.2rem;
+  }
+  .meal-content {
+    padding: 2.4rem 3.2rem 3.2rem;
+  }
+  .tag {
+    font-size: 1rem;
+  }
+  .card-header {
+    font-size: 1.8rem;
+    margin-bottom: 2.4rem;
+  }
+  .card-list {
+    font-size: 1.4rem;
+    gap: 1.4rem;
+  }
+  .meals-section {
+    padding: 4.8rem 4.8rem 5.6rem;
+  }
+  .price-cards {
+    column-gap: 4.8rem;
+  }
+}
